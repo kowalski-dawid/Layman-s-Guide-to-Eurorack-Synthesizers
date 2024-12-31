@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <b>
+                <MadCap:glossaryTerm glossTerm="Glossary.Term0">Eurorack</MadCap:glossaryTerm>
+            </b> synthesis is a modular synthesizer format that allows users to create custom sound generating and processing systems by assembling various individual modules. Each module typically performs a specific function, such as generating sound waves, shaping sounds, sequencing notes, or applying effects such as filters and reverbs. Eurorack systems are widely appreciated for their flexibility and creative possibilities in sound design and music production.</p>
+    </body>
+</html>

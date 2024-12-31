@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="Eurorack Glossary.Term0"
+    TermClass="Popup"
+    Stem=""
+    IgnoreCase="true">
+    <Terms>
+      <Term>Eurorack</Term>
+    </Terms>
+    <Definition
+      Link="">Eurorack synthesis is a modular synthesizer format that allows users to create custom sound-generating and sound-processing systems by assembling various individual modules.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Eurorack Glossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Module</Term>
+    </Terms>
+    <Definition
+      Link="">Eurorack modules are individual components of a modular synthesizer system that conform to the Eurorack standard. Each module performs a specific function, such as generating sounds, shaping audio signals, or modulating other modules.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>

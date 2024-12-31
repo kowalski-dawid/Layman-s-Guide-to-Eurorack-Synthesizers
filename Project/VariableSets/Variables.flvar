@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Author"
+    EvaluatedDefinition="Dawid Kowalski">Dawid Kowalski</Variable>
+  <Variable
+    Comment=""
+    Name="Document name"
+    EvaluatedDefinition="Layman's Guide to Eurorack Synthesizers">Layman's Guide to Eurorack Synthesizers</Variable>
+  <Variable
+    Name="Contact"
+    Comment=""
+    EvaluatedDefinition="kowalski.dawid@gmail.com">kowalski.dawid@gmail.com</Variable>
+  <Variable
+    Name="Updated on"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2024-11-24T10:54:35.1392152+01:00"
+    EvaluatedDefinition="hh:mm:ss dd MMMM yyyy">hh:mm:ss dd MMMM yyyy</Variable>
+</CatapultVariableSet>
