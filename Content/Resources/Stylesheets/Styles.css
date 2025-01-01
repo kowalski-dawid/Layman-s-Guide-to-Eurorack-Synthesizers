@@ -61,7 +61,23 @@ dl
 
 img
 {
-	border: none;
+	mc-float: frame-center;
+	clear: both;
+	vertical-align: middle;
+	width: 50%;
+	height: 50%;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
 }
 
 a.Popup
@@ -91,3 +107,4 @@ MadCap|dropDownHotspot
 	text-decoration: none;
 	color: #006600;
 }
+
