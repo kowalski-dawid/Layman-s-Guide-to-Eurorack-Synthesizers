@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0" BackgroundType="Solid" BackgroundColor="#000000" BackgroundColorAlt="#000000">
+        <Frame X="77px" Y="265px" Width="400px" Height="400px" Right="77px" Bottom="266px" BackgroundImage="../Images/Modular_Logo.jpeg" BackgroundRepeat="stretch" Anchors="" BorderLeftStyle="solid" BorderLeftWidth="0px" BorderRightStyle="solid" BorderRightWidth="0px" BorderTopStyle="solid" BorderTopWidth="0px" BorderBottomStyle="solid" BorderBottomWidth="0px" />
+        <Frame X="77px" Y="75px" Width="400px" Height="175px" FlowIndex="1" Flow="body" Right="77px" Bottom="681px" />
+    </Page>
+</PageStyles>

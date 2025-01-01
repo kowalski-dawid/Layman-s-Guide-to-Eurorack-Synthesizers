@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PageStyles>
     <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="A4" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" BackgroundType="Solid" BleedBottom="0" BleedLeft="0" BleedTop="0" BleedRight="0">
-        <Frame Flow="header" Height="0.5in" Right="-22px" X="0px" Y="-0.75in" ColumnCount="1" Width="6.5in" Bottom="955px">
+        <Frame Flow="header" Height="0.6354167in" Right="-22px" X="0px" Y="-0.75in" ColumnCount="1" Width="6.5in" Bottom="942px">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
-                    <xhtml:body xhtml:style="text-align: right;">&#160;</xhtml:body>
+                    <xhtml:p><MadCap:variable xhtml:name="Variables.Document name" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:p>
+                    <xhtml:p><MadCap:variable xhtml:name="System.Title" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                    </xhtml:p>
                 </xhtml:html>
             </Content>
         </Frame>
@@ -21,5 +24,6 @@
         </Frame>
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="0px" Y="0px" Right="-22px" Bottom="67px">
         </Frame>
+        <Frame X="559px" Y="-72px" Width="67px" Height="61px" Flow="decoration0" Right="-24px" Bottom="942px" BackgroundImage="../Images/Gemini_Generated_Image_co3kp4co3kp4co3k.jpeg" BackgroundRepeat="stretch" />
     </Page>
 </PageStyles>
