@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div style="width: 300px;height: 200px;">
+            <div class="figure" style="width: 300px;height: 200px;">
+                <p>
+                    <img src="../Images/Gemini_Generated_Image_8wr06u8wr06u8wr0.jpeg" />
+                </p>
+                <p class="figurecount" MadCap:autonum="&lt;b&gt;Image 1 - &lt;/b&gt;">Topic text</p>
+            </div>
+        </div>
+    </body>
+</html>

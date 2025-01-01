@@ -1,13 +1,13 @@
 /*<meta />*/
 
-/* MadCap-Branding applanguage:Templates/Projects/Empty.flprj/ */
+/* MadCap-Branding applanguage:Templates/Projects/Print/User Guide/ */
 
 :root
 {
-	--Primary: #076685;
 	--Lightest: #FFFFFF;
-	--Dark: #45494C;
 	--FontFamily: Arial, Avenir, Myriad;
-	--LogoImage: url('../Images/Logo.png');
+	--Dark: #000000;
+	--Primary: #000000;
+	--LogoImage: url('../Images/Modular_Logo.jpeg');
 }
 
